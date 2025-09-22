@@ -8,7 +8,7 @@
 </pre>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
     <div>
         <img src="./assets/youtube.webp" height="120" style="padding:10px" align="center" style="width:100%"/>
         <p><a href="https://www.youtube.com/@pon4ick0"><img src="./assets/buttons/youtube.png" alt="YouTube" data-canonical-src="" style="padding: 2px 16px;" align="center"/></a><p>
