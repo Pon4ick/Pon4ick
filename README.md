@@ -8,7 +8,7 @@
 </pre>
 </div>
 
-<table>
+<table align='left'>
     <tr>
     <td>
         <div align='center'>
