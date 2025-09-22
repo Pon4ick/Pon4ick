@@ -1,11 +1,26 @@
 <div align="center">
-    <img src="https://github.com/Pon4ick/Pon4ick/blob/main/assets/banner.png" width="25%" align="right" />
+    <img src="./assets/banner.png" width="25%" align="right" />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=100&size=40&duration=4000&pause=300&color=028BF7&center=true&vCenter=true&multiline=true&width=435&height=120&lines=HI!;I'm+Pon4ick" alt="Typing SVG" /></a>
     <br></br>
     <div align="left">
 <pre>
-        pon4ick@fedora:~$ ...
+        pon4ick@fedora:~$ <text id='dots'>...</text>
 </pre>
 </div>
-<img src="https://github.com/Pon4ick/Pon4ick/blob/main/assets/bottom.webp" height="120"  align="center"/>
+    <div style="display: inline-block;">
+        <img src="./assets/youtube.webp" height="120" style="padding:10px" align="center" style="width:100%"/>
+        <p><a href="https://www.youtube.com/@pon4ick0"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2296.2%22%20height%3D%2220%22%3E%3ClinearGradient%20id%3D%22b%22%20x2%3D%220%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23bbb%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-opacity%3D%22.1%22%2F%3E%3C%2FlinearGradient%3E%3Cmask%20id%3D%22a%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20rx%3D%223%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fmask%3E%3Cg%20mask%3D%22url(%23a)%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22%23e05d44%22%2F%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22url(%23b)%22%2F%3E%3C%2Fg%3E%3Cg%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-family%3D%22DejaVu%20Sans%2CVerdana%2CGeneva%2Csans-serif%22%20font-size%3D%2211%22%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2215%22%20fill%3D%22%23010101%22%20fill-opacity%3D%22.3%22%3EYouTube%3C%2Ftext%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2214%22%3EYouTube%3C%2Ftext%3E%3C%2Fg%3E%3Cstyle%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20type%3D%22text%2Fcss%22%3E%3C%2Fstyle%3E%3C%2Fsvg%3E" alt="YouTube" data-canonical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+    </div>
+    <div style="display: inline-block;">
+        <img src="./assets/views.webp" height="120" style="padding:10px" align="center" style="width:100%"/>
+        <p><img src="https://komarev.com/ghpvc/?username=Pon4ick" alt="" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=12.3K&amp;color=028BF7" style="padding: 2px 16px;" align="center"/></p>
+    </div>
+    <div style="display: inline-block;">
+        <img src="./assets/telegram.webp" height="120" style="padding:10px" align="center" style="width:100%"/>
+        <p><a href="https://t.me/Pon4ickYo"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2296.2%22%20height%3D%2220%22%3E%3ClinearGradient%20id%3D%22b%22%20x2%3D%220%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23bbb%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-opacity%3D%22.1%22%2F%3E%3C%2FlinearGradient%3E%3Cmask%20id%3D%22a%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20rx%3D%223%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fmask%3E%3Cg%20mask%3D%22url(%23a)%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22%23007ec6%22%2F%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22url(%23b)%22%2F%3E%3C%2Fg%3E%3Cg%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-family%3D%22DejaVu%20Sans%2CVerdana%2CGeneva%2Csans-serif%22%20font-size%3D%2211%22%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2215%22%20fill%3D%22%23010101%22%20fill-opacity%3D%22.3%22%3ETelegram%3C%2Ftext%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2214%22%3ETelegram%3C%2Ftext%3E%3C%2Fg%3E%3Cstyle%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20type%3D%22text%2Fcss%22%3E%3C%2Fstyle%3E%3C%2Fsvg%3E" alt="Telegram" data-cano nical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+    </div>
+    <div style="display: inline-block;">
+        <img src="./assets/tiktok.webp" height="120" style="padding:10px" align="center" style="width:100%"/>
+        <p><a href="https://www.youtube.com/@pon4ick0"><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2296.2%22%20height%3D%2220%22%3E%3ClinearGradient%20id%3D%22b%22%20x2%3D%220%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23bbb%22%20stop-opacity%3D%22.1%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-opacity%3D%22.1%22%2F%3E%3C%2FlinearGradient%3E%3Cmask%20id%3D%22a%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20rx%3D%223%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fmask%3E%3Cg%20mask%3D%22url(%23a)%22%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22%23555%22%2F%3E%3Crect%20width%3D%2296.2%22%20height%3D%2220%22%20fill%3D%22url(%23b)%22%2F%3E%3C%2Fg%3E%3Cg%20fill%3D%22%23fff%22%20text-anchor%3D%22middle%22%20font-family%3D%22DejaVu%20Sans%2CVerdana%2CGeneva%2Csans-serif%22%20font-size%3D%2211%22%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2215%22%20fill%3D%22%23010101%22%20fill-opacity%3D%22.3%22%3ETikTok%3C%2Ftext%3E%3Ctext%20x%3D%2250%25%22%20text-anchor%3D%22middle%22%20y%3D%2214%22%3ETikTok%3C%2Ftext%3E%3C%2Fg%3E%3Cstyle%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20type%3D%22text%2Fcss%22%3E%3C%2Fstyle%3E%3C%2Fsvg%3E" alt="TikTok" data-canonical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+    </div>
 </div>
