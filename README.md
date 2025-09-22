@@ -4,7 +4,7 @@
     <br></br>
     <div align="left">
 <pre>
-        pon4ick@fedora:~$ <text id='dots'>...</text>
+    pon4ick@fedora:~$ <text id='dots'>...</text>
 </pre>
 </div>
 
@@ -12,8 +12,8 @@
     <tr>
     <td>
         <div align='center'>
-            <img src="./assets/youtube.webp" height="120" style="padding:10px" align="center"/>
-            <p><a href="https://www.youtube.com/@pon4ick0"><img src="./assets/buttons/youtube.png" alt="YouTube" data-canonical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+            <a href="https://www.youtube.com/@pon4ick0"><img src="./assets/youtube.webp" height="120" style="padding:10px" align="center"/>
+            <p><img src="./assets/buttons/youtube.png" alt="YouTube" data-canonical-src="" style="padding: 2px 16px;" align="center"/><p></a>
         </div>
     </td>
     <td>
@@ -24,14 +24,14 @@
     </td>
     <td>
         <div align='center'>
-            <img src="./assets/telegram.webp" height="120" style="padding:10px" align="center"/>
-            <p><a href="https://t.me/Pon4ickYo"><img src="./assets/buttons/telegram.png" alt="Telegram" data-cano nical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+            <a href="https://t.me/Pon4ickYo"><img src="./assets/telegram.webp" height="120" style="padding:10px" align="center"/>
+            <p><img src="./assets/buttons/telegram.png" alt="Telegram" data-cano nical-src="" style="padding: 2px 16px;" align="center"/><p></a>
         </div>
     </td>
     <td>
         <div align='center'>
-            <img src="./assets/tiktok.webp" height="120" style="padding:10px" align="center"/>
-            <p><a href="https://www.youtube.com/@pon4ick0"><img src="./assets/buttons/tiktok.png" alt="TikTok" data-canonical-src="" style="padding: 2px 16px;" align="center"/></a><p>
+            <a href="https://www.youtube.com/@pon4ick0"><img src="./assets/tiktok.webp" height="120" style="padding:10px" align="center"/>
+            <p><img src="./assets/buttons/tiktok.png" alt="TikTok" data-canonical-src="" style="padding: 2px 16px;" align="center"/><p></a>
         </div>
     </td>
     </tr>
